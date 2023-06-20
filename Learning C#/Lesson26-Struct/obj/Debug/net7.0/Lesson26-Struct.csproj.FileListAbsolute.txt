@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/bin/Debug/net7.0/Lesson26-Struct
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/bin/Debug/net7.0/Lesson26-Struct.deps.json
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/bin/Debug/net7.0/Lesson26-Struct.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/bin/Debug/net7.0/Lesson26-Struct.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/bin/Debug/net7.0/Lesson26-Struct.pdb
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/refint/Lesson26-Struct.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.pdb
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/Lesson26-Struct.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson26-Struct/obj/Debug/net7.0/ref/Lesson26-Struct.dll
