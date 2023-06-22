@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lesson28-Regular_Expression/1.0.0": {
+        "runtime": {
+          "Lesson28-Regular_Expression.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson28-Regular_Expression/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/bin/Debug/net7.0/Lesson28-Regular_Expression
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/bin/Debug/net7.0/Lesson28-Regular_Expression.deps.json
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/bin/Debug/net7.0/Lesson28-Regular_Expression.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/bin/Debug/net7.0/Lesson28-Regular_Expression.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/bin/Debug/net7.0/Lesson28-Regular_Expression.pdb
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/refint/Lesson28-Regular_Expression.dll
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.pdb
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/Lesson28-Regular_Expression.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning C#/Lesson28-Regular_Expression/obj/Debug/net7.0/ref/Lesson28-Regular_Expression.dll
