@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/bin/Debug/net7.0/Lesson4_Static
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/bin/Debug/net7.0/Lesson4_Static.deps.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/bin/Debug/net7.0/Lesson4_Static.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/bin/Debug/net7.0/Lesson4_Static.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/bin/Debug/net7.0/Lesson4_Static.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/refint/Lesson4_Static.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/Lesson4_Static.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson4_Static/obj/Debug/net7.0/ref/Lesson4_Static.dll

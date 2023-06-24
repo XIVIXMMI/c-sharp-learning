@@ -4,32 +4,32 @@ namespace Name
     /*Vì không có từ khóa cụ thể nên class Students sẽ có phạm vi là internal */
     class Students{
         /*Các thuộc tính đều mang phạm vi là private vì thế chỉ sử dụng nội bộ class, bên ngoài không truy cập được*/
-        public string ID;
-        private string fullName;
+        public string? ID;
+        private string? fullName;
         private double mathScore;
         private double literatureScore;
-        
+        // public double literatureScore{
+        //     get {return literatureScore;}
+        //     set { literatureScore = value;}
+        // }
         private double physicScore;
-        public double literatureScore{
-            get {return literatureScore;}
-            set { literatureScore = value;}
-        }
-        public double physicScore{
-            get {return physicScore;}
-            set {
-                /*  Kiểm tra physicScore có thỏa mãn hay không
-                    Nếu có sẽ thực hiện gán vào thuộc tính private
-                    Nếu không sẽ không làm gì cả, điều này đảm bảo tính đúng đắn của dữ liệu*/
-                if(value <= 10 || value >= 0){
-                    physicScore = value;
-                }
-            }
-        }
+        
+        // public double physicScore{
+        //     get {return physicScore;}
+        //     set {
+        //         /*  Kiểm tra physicScore có thỏa mãn hay không
+        //             Nếu có sẽ thực hiện gán vào thuộc tính private
+        //             Nếu không sẽ không làm gì cả, điều này đảm bảo tính đúng đắn của dữ liệu*/
+        //         if(value <= 10 || value >= 0){
+        //             physicScore = value;
+        //         }
+        //     }
+        // }
         /*  Phương thức này có phạm vi public nên có thể sử dụng từ bên ngoài 
             Vì phương thức này nằm trong lớp nên có thể sử dụng các thuộc tính private ở trên */
         public void AverageScore(){
             double AVG =  ( mathScore + literatureScore)/2;
-            Console.WriteLine("Name: "+ fullName + "Average Score: "+ AverageScore);
+            Console.WriteLine("Name: "+ fullName + "Average Score: "+ AVG);
         }
     }
     class Program{
