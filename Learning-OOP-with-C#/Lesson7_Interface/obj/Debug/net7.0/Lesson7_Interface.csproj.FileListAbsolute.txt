@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/bin/Debug/net7.0/Lesson7_Interface
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/bin/Debug/net7.0/Lesson7_Interface.deps.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/bin/Debug/net7.0/Lesson7_Interface.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/bin/Debug/net7.0/Lesson7_Interface.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/bin/Debug/net7.0/Lesson7_Interface.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/refint/Lesson7_Interface.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/Lesson7_Interface.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson7_Interface/obj/Debug/net7.0/ref/Lesson7_Interface.dll
