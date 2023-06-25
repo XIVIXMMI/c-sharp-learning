@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/bin/Debug/net7.0/Lesson6_Polymorphism
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/bin/Debug/net7.0/Lesson6_Polymorphism.deps.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/bin/Debug/net7.0/Lesson6_Polymorphism.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/bin/Debug/net7.0/Lesson6_Polymorphism.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/bin/Debug/net7.0/Lesson6_Polymorphism.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/refint/Lesson6_Polymorphism.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/Lesson6_Polymorphism.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson6_Polymorphism/obj/Debug/net7.0/ref/Lesson6_Polymorphism.dll
