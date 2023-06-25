@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/bin/Debug/net7.0/Lesson5_Inheritance
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/bin/Debug/net7.0/Lesson5_Inheritance.deps.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/bin/Debug/net7.0/Lesson5_Inheritance.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/bin/Debug/net7.0/Lesson5_Inheritance.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/bin/Debug/net7.0/Lesson5_Inheritance.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/refint/Lesson5_Inheritance.dll
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.pdb
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/Lesson5_Inheritance.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-OOP-with-C#/Lesson5_Inheritance/obj/Debug/net7.0/ref/Lesson5_Inheritance.dll
