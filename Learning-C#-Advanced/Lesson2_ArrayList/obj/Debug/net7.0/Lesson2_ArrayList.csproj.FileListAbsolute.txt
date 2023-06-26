@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/bin/Debug/net7.0/Lesson2_ArrayList
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/bin/Debug/net7.0/Lesson2_ArrayList.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/bin/Debug/net7.0/Lesson2_ArrayList.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/bin/Debug/net7.0/Lesson2_ArrayList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/bin/Debug/net7.0/Lesson2_ArrayList.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/refint/Lesson2_ArrayList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/Lesson2_ArrayList.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson2_ArrayList/obj/Debug/net7.0/ref/Lesson2_ArrayList.dll
