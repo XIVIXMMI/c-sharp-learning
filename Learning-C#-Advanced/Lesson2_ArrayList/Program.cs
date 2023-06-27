@@ -88,7 +88,6 @@ TODO:lưu ý rằng việc sử dụng ArrayList không được khuyến nghị
 TODO:Thay vào đó, bạn nên sử dụng generic List<T> để lưu trữ và xử lý danh sách các đối tượng.
 */
 using System;
-//using System.Collections;
 using System.Collections.Generic;
 using ArrayList;
 namespace ArrayList
@@ -180,30 +179,30 @@ namespace ArrayList
             return x.Age.CompareTo(y.Age);
         }
 
-        public int Compare(object x, object y){
-            //Ép kiểu 2 Object truyền vào về Person
-            Person p1 = x as Person;
-            Person p2 = y as Person;
-            /*
-            Vì có thể 2 Object truyền vào không phải person khi đó ta không thể so sánh được.
-            Trường hợp này tốt nhất nên ném ra lỗi để lập trình viên sửa chữa
-            */
-            if(p1 == null || p2 == null){
-                throw new InvalidOperationException();
-            }else{
-                /*
-                Khi dữ liệu đã OK ta thực hiện so sánh và trả về giá trị -1 0 1 tương ứng
-                lớn hơn, bằng, bé hơn
-                */
-                if(p1.Age < p2.Age){
-                    return 1;
-                }else if (p1.Age == p2.Age){
-                    return 0;
-                }else if (p1.Age > p2.Age){
-                    return -1; 
-                }
-            }
-        }
+        // public int Compare(object x, object y){
+        //     //Ép kiểu 2 Object truyền vào về Person
+        //     Person p1 = x as Person;
+        //     Person p2 = y as Person;
+        //     /*
+        //     Vì có thể 2 Object truyền vào không phải person khi đó ta không thể so sánh được.
+        //     Trường hợp này tốt nhất nên ném ra lỗi để lập trình viên sửa chữa
+        //     */
+        //     if(p1 == null || p2 == null){
+        //         throw new InvalidOperationException();
+        //     }else{
+        //         /*
+        //         Khi dữ liệu đã OK ta thực hiện so sánh và trả về giá trị -1 0 1 tương ứng
+        //         lớn hơn, bằng, bé hơn
+        //         */
+        //         if(p1.Age < p2.Age){
+        //             return 1;
+        //         }else if (p1.Age == p2.Age){
+        //             return 0;
+        //         }else if (p1.Age > p2.Age){
+        //             return -1; 
+        //         }
+        //     }
+        // }
 
     }
 }
