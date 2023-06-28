@@ -1,0 +1,5 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson1_Overview-Collection/obj/Debug/net7.0/Lesson1_Overview-Collection.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson1_Overview-Collection/obj/Debug/net7.0/Lesson1_Overview-Collection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson1_Overview-Collection/obj/Debug/net7.0/Lesson1_Overview-Collection.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson1_Overview-Collection/obj/Debug/net7.0/Lesson1_Overview-Collection.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson1_Overview-Collection/obj/Debug/net7.0/Lesson1_Overview-Collection.csproj.CoreCompileInputs.cache

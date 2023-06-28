@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/bin/Debug/net7.0/Lesson4_SortedList
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/bin/Debug/net7.0/Lesson4_SortedList.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/bin/Debug/net7.0/Lesson4_SortedList.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/bin/Debug/net7.0/Lesson4_SortedList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/bin/Debug/net7.0/Lesson4_SortedList.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/refint/Lesson4_SortedList.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/Lesson4_SortedList.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson4_SortedList/obj/Debug/net7.0/ref/Lesson4_SortedList.dll
