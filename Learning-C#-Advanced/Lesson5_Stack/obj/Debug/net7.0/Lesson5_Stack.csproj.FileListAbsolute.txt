@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/bin/Debug/net7.0/Lesson5_Stack
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/bin/Debug/net7.0/Lesson5_Stack.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/bin/Debug/net7.0/Lesson5_Stack.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/bin/Debug/net7.0/Lesson5_Stack.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/bin/Debug/net7.0/Lesson5_Stack.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/refint/Lesson5_Stack.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/Lesson5_Stack.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson5_Stack/obj/Debug/net7.0/ref/Lesson5_Stack.dll
