@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/bin/Debug/net7.0/Lesson3_HashTable
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/bin/Debug/net7.0/Lesson3_HashTable.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/bin/Debug/net7.0/Lesson3_HashTable.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/bin/Debug/net7.0/Lesson3_HashTable.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/bin/Debug/net7.0/Lesson3_HashTable.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/refint/Lesson3_HashTable.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/Lesson3_HashTable.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson3_HashTable/obj/Debug/net7.0/ref/Lesson3_HashTable.dll
