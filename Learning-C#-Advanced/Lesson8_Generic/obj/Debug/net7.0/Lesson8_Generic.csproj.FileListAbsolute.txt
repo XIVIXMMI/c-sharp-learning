@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/bin/Debug/net7.0/Lesson8_Generic
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/bin/Debug/net7.0/Lesson8_Generic.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/bin/Debug/net7.0/Lesson8_Generic.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/bin/Debug/net7.0/Lesson8_Generic.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/bin/Debug/net7.0/Lesson8_Generic.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/refint/Lesson8_Generic.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/Lesson8_Generic.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson8_Generic/obj/Debug/net7.0/ref/Lesson8_Generic.dll
