@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/bin/Debug/net7.0/Lesson9_List
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/bin/Debug/net7.0/Lesson9_List.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/bin/Debug/net7.0/Lesson9_List.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/bin/Debug/net7.0/Lesson9_List.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/bin/Debug/net7.0/Lesson9_List.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/refint/Lesson9_List.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/Lesson9_List.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson9_List/obj/Debug/net7.0/ref/Lesson9_List.dll
