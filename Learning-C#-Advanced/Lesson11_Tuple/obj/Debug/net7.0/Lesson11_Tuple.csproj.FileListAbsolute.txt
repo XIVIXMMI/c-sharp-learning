@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/bin/Debug/net7.0/Lesson11_Tuple
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/bin/Debug/net7.0/Lesson11_Tuple.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/bin/Debug/net7.0/Lesson11_Tuple.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/bin/Debug/net7.0/Lesson11_Tuple.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/bin/Debug/net7.0/Lesson11_Tuple.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/refint/Lesson11_Tuple.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/Lesson11_Tuple.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson11_Tuple/obj/Debug/net7.0/ref/Lesson11_Tuple.dll
