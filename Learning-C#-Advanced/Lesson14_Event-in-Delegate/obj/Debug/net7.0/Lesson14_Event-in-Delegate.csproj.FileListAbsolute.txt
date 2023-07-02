@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/bin/Debug/net7.0/Lesson14_Event-in-Delegate
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/bin/Debug/net7.0/Lesson14_Event-in-Delegate.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/bin/Debug/net7.0/Lesson14_Event-in-Delegate.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/bin/Debug/net7.0/Lesson14_Event-in-Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/bin/Debug/net7.0/Lesson14_Event-in-Delegate.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/refint/Lesson14_Event-in-Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/Lesson14_Event-in-Delegate.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson14_Event-in-Delegate/obj/Debug/net7.0/ref/Lesson14_Event-in-Delegate.dll
