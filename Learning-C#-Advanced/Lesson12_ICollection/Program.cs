@@ -90,6 +90,6 @@ IsSynchronized và SyncRoot: 2 property để làm cho thao tác đa luồng và
 CopyTo(Array array , int Index): phương thức dùng để copy tập hợp ra 1 mảng bắt đầu từ vị trí index
 GetENumerator(): trả về đối tương thuộc kiểu IEnumerator
 
-TODO: ICollection là 1 interface có ý nghĩa "xác định kích thước, enumerator(bộ liệt kê) và những phương thức đồng bộ cho những tập hợp không phải kiểu generic 
+TODO: ICollection là 1 interface có ý nghĩa "xác định kích thước, enumerator(bộ liệt kê) và những phương thức đồng bộ cho những tập hợp không phải kiểu generic" 
 TODO: Hay nói ngắn gọn hơn đây là 1 interface thể hiện tính chất của 1 Collection 
 */

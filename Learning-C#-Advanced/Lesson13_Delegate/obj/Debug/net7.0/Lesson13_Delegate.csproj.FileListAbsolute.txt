@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/bin/Debug/net7.0/Lesson13_Delegate
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/bin/Debug/net7.0/Lesson13_Delegate.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/bin/Debug/net7.0/Lesson13_Delegate.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/bin/Debug/net7.0/Lesson13_Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/bin/Debug/net7.0/Lesson13_Delegate.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/refint/Lesson13_Delegate.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/Lesson13_Delegate.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson13_Delegate/obj/Debug/net7.0/ref/Lesson13_Delegate.dll
