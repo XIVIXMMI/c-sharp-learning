@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lesson15_Event-with-dotnet/1.0.0": {
+        "runtime": {
+          "Lesson15_Event-with-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson15_Event-with-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

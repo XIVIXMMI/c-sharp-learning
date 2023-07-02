@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/bin/Debug/net7.0/Lesson15_Event-with-dotnet
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/bin/Debug/net7.0/Lesson15_Event-with-dotnet.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/bin/Debug/net7.0/Lesson15_Event-with-dotnet.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/bin/Debug/net7.0/Lesson15_Event-with-dotnet.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/bin/Debug/net7.0/Lesson15_Event-with-dotnet.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/refint/Lesson15_Event-with-dotnet.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/Lesson15_Event-with-dotnet.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson15_Event-with-dotnet/obj/Debug/net7.0/ref/Lesson15_Event-with-dotnet.dll
