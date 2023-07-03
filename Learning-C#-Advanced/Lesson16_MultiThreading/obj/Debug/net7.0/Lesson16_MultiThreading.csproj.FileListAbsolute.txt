@@ -1,0 +1,15 @@
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/bin/Debug/net7.0/Lesson16_MultiThreading
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/bin/Debug/net7.0/Lesson16_MultiThreading.deps.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/bin/Debug/net7.0/Lesson16_MultiThreading.runtimeconfig.json
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/bin/Debug/net7.0/Lesson16_MultiThreading.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/bin/Debug/net7.0/Lesson16_MultiThreading.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.csproj.AssemblyReference.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.AssemblyInfoInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.AssemblyInfo.cs
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.csproj.CoreCompileInputs.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/refint/Lesson16_MultiThreading.dll
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.pdb
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/Lesson16_MultiThreading.genruntimeconfig.cache
+/Users/dev/myProject/Learn Git/Learning-C#-Advanced/Lesson16_MultiThreading/obj/Debug/net7.0/ref/Lesson16_MultiThreading.dll
