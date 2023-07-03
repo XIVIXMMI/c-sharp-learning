@@ -41,6 +41,7 @@ namespace Program
                 Thread t = new Thread(() => {
                     DemoThread2("Thread " + tempI);
                 });
+                T.IsBackground = false;
                 t.Start();
             }
             Console.ReadLine();
@@ -98,6 +99,13 @@ Vì muốn biết giá trị của i được in ra từ hàm nào nên mình tr
 
 *Thread chỉ bắt đầu chạy khi bạn gọi hàm Start.
 ?Cách dùng multi Thread trong C#
+Thread t = new Thread(()=> {
+    DemoThread2("Thread 1");
+    });
+    t.Start(); => khi start chưa chắc nó đã bắt đầu mà do CPU sẽ tự điều chỉnh 
+
+=> cách tạo ra 1 luồng mới
+
 
 ?Các lưu ý khi dùng Thread trong C#
 Nếu Thread của bạn xử lý nhiều hoặc lặp vô tận. 
@@ -124,5 +132,5 @@ thì nên đưa code xử lý liên quan đến giao diện vào trong Invoke đ
         *code của bạn
     }));
 
-
+TODO: 
 */
