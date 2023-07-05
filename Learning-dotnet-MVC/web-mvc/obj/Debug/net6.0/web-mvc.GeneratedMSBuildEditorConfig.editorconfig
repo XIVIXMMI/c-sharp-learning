@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net7.0
+build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
@@ -10,15 +10,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = web_mvc
 build_property.RootNamespace = web_mvc
 build_property.ProjectDir = /Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/
-build_property.RazorLangVersion = 7.0
+build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc
 build_property._RazorSourceGeneratorDebug = 
-
-[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/Fisrt/HelloWorld2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlzcnQvSGVsbG9Xb3JsZDIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/HelloWorld.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSGVsbG9Xb3JsZC5jc2h0bWw=
@@ -26,18 +22,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/Razor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmF6b3IuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/HelloView.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvSGVsbG9WaWV3LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/HelloWorld.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvSGVsbG9Xb3JsZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/ViewProduct.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvVmlld1Byb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/Home/Index.cshtml]

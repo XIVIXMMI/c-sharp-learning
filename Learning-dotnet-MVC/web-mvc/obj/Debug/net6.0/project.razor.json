@@ -1,9 +1,9 @@
 {
-  "SerializedFilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/obj/Debug/net7.0/project.razor.json",
+  "SerializedFilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/obj/Debug/net6.0/project.razor.json",
   "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/web-mvc.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
-    "LanguageVersion": "7.0",
+    "LanguageVersion": "6.0",
     "Extensions": [
       {
         "ExtensionName": "MVC-3.0"
@@ -3868,91 +3868,6 @@
         }
       },
       {
-        "HashCode": 2016687474,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
-        "AssemblyName": "Microsoft.AspNetCore.Components.Web",
-        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.Routing.NavigationLock\">\n            <summary>\n            A component that can be used to intercept navigation events. \n            </summary>\n        </member>",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavigationLock"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnBeforeInternalNavigation",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Routing.LocationChangingContext>",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Routing.NavigationLock.OnBeforeInternalNavigation\">\n            <summary>\n            Gets or sets a callback to be invoked when an internal navigation event occurs.\n            </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "OnBeforeInternalNavigation",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::Microsoft.AspNetCore.Components.Routing.LocationChangingContext>",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ConfirmExternalNavigation",
-            "TypeName": "System.Boolean",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Routing.NavigationLock.ConfirmExternalNavigation\">\n            <summary>\n            Gets or sets whether a browser dialog should prompt the user to either confirm or cancel\n            external navigations.\n            </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "ConfirmExternalNavigation",
-              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
-          "Common.TypeNameIdentifier": "NavigationLock",
-          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.Routing",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -818689223,
-        "Kind": "Components.Component",
-        "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
-        "AssemblyName": "Microsoft.AspNetCore.Components.Web",
-        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.Routing.NavigationLock\">\n            <summary>\n            A component that can be used to intercept navigation events. \n            </summary>\n        </member>",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Microsoft.AspNetCore.Components.Routing.NavigationLock"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "OnBeforeInternalNavigation",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Routing.LocationChangingContext>",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Routing.NavigationLock.OnBeforeInternalNavigation\">\n            <summary>\n            Gets or sets a callback to be invoked when an internal navigation event occurs.\n            </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "OnBeforeInternalNavigation",
-              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback<global::Microsoft.AspNetCore.Components.Routing.LocationChangingContext>",
-              "Components.EventCallback": "True"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "ConfirmExternalNavigation",
-            "TypeName": "System.Boolean",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Routing.NavigationLock.ConfirmExternalNavigation\">\n            <summary>\n            Gets or sets whether a browser dialog should prompt the user to either confirm or cancel\n            external navigations.\n            </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "ConfirmExternalNavigation",
-              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
-            }
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
-          "Common.TypeNameIdentifier": "NavigationLock",
-          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.Routing",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": 841248962,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
@@ -4615,7 +4530,7 @@
         }
       },
       {
-        "HashCode": -1707582153,
+        "HashCode": -258106726,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4719,16 +4634,6 @@
           },
           {
             "Kind": "Components.Component",
-            "Name": "SpacerElement",
-            "TypeName": "System.String",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1.SpacerElement\">\n             <summary>\n             Gets or sets the tag name of the HTML element that will be used as the virtualization spacer.\n             One such element will be rendered before the visible items, and one more after them, using\n             an explicit \"height\" style to control the scroll range.\n            \n             The default value is \"div\". If you are placing the <see cref=\"T:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1\" /> instance inside\n             an element that requires a specific child tag name, consider setting that here. For example when\n             rendering inside a \"tbody\", consider setting <see cref=\"P:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1.SpacerElement\" /> to the value \"tr\".\n             </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "SpacerElement",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
             "Name": "Context",
             "TypeName": "System.String",
             "Documentation": "Specifies the parameter name for all child content expressions.",
@@ -4747,7 +4652,7 @@
         }
       },
       {
-        "HashCode": 801590571,
+        "HashCode": 1022910279,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4847,16 +4752,6 @@
             "Metadata": {
               "Common.PropertyName": "OverscanCount",
               "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "SpacerElement",
-            "TypeName": "System.String",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1.SpacerElement\">\n             <summary>\n             Gets or sets the tag name of the HTML element that will be used as the virtualization spacer.\n             One such element will be rendered before the visible items, and one more after them, using\n             an explicit \"height\" style to control the scroll range.\n            \n             The default value is \"div\". If you are placing the <see cref=\"T:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1\" /> instance inside\n             an element that requires a specific child tag name, consider setting that here. For example when\n             rendering inside a \"tbody\", consider setting <see cref=\"P:Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize`1.SpacerElement\" /> to the value \"tr\".\n             </summary>\n        </member>",
-            "Metadata": {
-              "Common.PropertyName": "SpacerElement",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
             }
           },
           {
@@ -5561,172 +5456,6 @@
                 "Name": "stopPropagation",
                 "TypeName": "System.Boolean",
                 "Documentation": "Specifies whether to prevent further propagation of the '@onmouseout' event in the capturing and bubbling phases.",
-                "Metadata": {
-                  "Common.PropertyName": "StopPropagation"
-                }
-              }
-            ]
-          }
-        ],
-        "Metadata": {
-          "Common.ClassifyAttributesOnly": "True",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Web.EventHandlers",
-          "Common.TypeNameIdentifier": "EventHandlers",
-          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.Web",
-          "Components.EventHandler.EventArgs": "Microsoft.AspNetCore.Components.Web.MouseEventArgs",
-          "Components.IsSpecialKind": "Components.EventHandler",
-          "Runtime.Name": "Components.None"
-        }
-      },
-      {
-        "HashCode": -385914731,
-        "Kind": "Components.EventHandler",
-        "Name": "onmouseleave",
-        "AssemblyName": "Microsoft.AspNetCore.Components",
-        "Documentation": "Sets the '@onmouseleave' attribute to the provided string or delegate value. A delegate value should be of type 'Microsoft.AspNetCore.Components.Web.MouseEventArgs'.",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseleave",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          },
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseleave:preventDefault",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          },
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseleave:stopPropagation",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.EventHandler",
-            "Name": "@onmouseleave",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Documentation": "Sets the '@onmouseleave' attribute to the provided string or delegate value. A delegate value should be of type 'Microsoft.AspNetCore.Components.Web.MouseEventArgs'.",
-            "Metadata": {
-              "Components.IsWeaklyTyped": "True",
-              "Common.DirectiveAttribute": "True",
-              "Common.PropertyName": "onmouseleave"
-            },
-            "BoundAttributeParameters": [
-              {
-                "Name": "preventDefault",
-                "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmouseleave' event.",
-                "Metadata": {
-                  "Common.PropertyName": "PreventDefault"
-                }
-              },
-              {
-                "Name": "stopPropagation",
-                "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to prevent further propagation of the '@onmouseleave' event in the capturing and bubbling phases.",
-                "Metadata": {
-                  "Common.PropertyName": "StopPropagation"
-                }
-              }
-            ]
-          }
-        ],
-        "Metadata": {
-          "Common.ClassifyAttributesOnly": "True",
-          "Common.TypeName": "Microsoft.AspNetCore.Components.Web.EventHandlers",
-          "Common.TypeNameIdentifier": "EventHandlers",
-          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.Web",
-          "Components.EventHandler.EventArgs": "Microsoft.AspNetCore.Components.Web.MouseEventArgs",
-          "Components.IsSpecialKind": "Components.EventHandler",
-          "Runtime.Name": "Components.None"
-        }
-      },
-      {
-        "HashCode": -613354989,
-        "Kind": "Components.EventHandler",
-        "Name": "onmouseenter",
-        "AssemblyName": "Microsoft.AspNetCore.Components",
-        "Documentation": "Sets the '@onmouseenter' attribute to the provided string or delegate value. A delegate value should be of type 'Microsoft.AspNetCore.Components.Web.MouseEventArgs'.",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseenter",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          },
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseenter:preventDefault",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          },
-          {
-            "TagName": "*",
-            "Attributes": [
-              {
-                "Name": "@onmouseenter:stopPropagation",
-                "Metadata": {
-                  "Common.DirectiveAttribute": "True"
-                }
-              }
-            ]
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.EventHandler",
-            "Name": "@onmouseenter",
-            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<Microsoft.AspNetCore.Components.Web.MouseEventArgs>",
-            "Documentation": "Sets the '@onmouseenter' attribute to the provided string or delegate value. A delegate value should be of type 'Microsoft.AspNetCore.Components.Web.MouseEventArgs'.",
-            "Metadata": {
-              "Components.IsWeaklyTyped": "True",
-              "Common.DirectiveAttribute": "True",
-              "Common.PropertyName": "onmouseenter"
-            },
-            "BoundAttributeParameters": [
-              {
-                "Name": "preventDefault",
-                "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onmouseenter' event.",
-                "Metadata": {
-                  "Common.PropertyName": "PreventDefault"
-                }
-              },
-              {
-                "Name": "stopPropagation",
-                "TypeName": "System.Boolean",
-                "Documentation": "Specifies whether to prevent further propagation of the '@onmouseenter' event in the capturing and bubbling phases.",
                 "Metadata": {
                   "Common.PropertyName": "StopPropagation"
                 }
@@ -14377,7 +14106,7 @@
         }
       },
       {
-        "HashCode": 1926671614,
+        "HashCode": -1022961840,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14408,7 +14137,7 @@
             "Kind": "ITagHelper",
             "Name": "asp-format",
             "TypeName": "System.String",
-            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\">\n            <summary>\n            The format string (see <see href=\"https://msdn.microsoft.com/en-us/library/txafckwd.aspx\" />) used to format the\n            <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For\" /> result. Sets the generated \"value\" attribute to that formatted string.\n            </summary>\n            <remarks>\n            Not used if the provided (see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is\n            <c>checkbox</c>, <c>password</c>, or <c>radio</c>. That is, <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is used when calling\n            <see cref=\"M:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator.GenerateTextBox(Microsoft.AspNetCore.Mvc.Rendering.ViewContext,Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExplorer,System.String,System.Object,System.String,System.Object)\" />.\n            </remarks>\n        </member>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\">\n            <summary>\n            The format string (see https://msdn.microsoft.com/en-us/library/txafckwd.aspx) used to format the\n            <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.For\" /> result. Sets the generated \"value\" attribute to that formatted string.\n            </summary>\n            <remarks>\n            Not used if the provided (see <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.InputTypeName\" />) or calculated \"type\" attribute value is\n            <c>checkbox</c>, <c>password</c>, or <c>radio</c>. That is, <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper.Format\" /> is used when calling\n            <see cref=\"M:Microsoft.AspNetCore.Mvc.ViewFeatures.IHtmlGenerator.GenerateTextBox(Microsoft.AspNetCore.Mvc.Rendering.ViewContext,Microsoft.AspNetCore.Mvc.ViewFeatures.ModelExplorer,System.String,System.Object,System.String,System.Object)\" />.\n            </remarks>\n        </member>",
             "Metadata": {
               "Common.PropertyName": "Format"
             }
@@ -18640,15 +18369,10 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 1100
+    "CSharpLanguageVersion": 1000
   },
   "RootNamespace": "web_mvc",
   "Documents": [
-    {
-      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/HelloWorld.cshtml",
-      "TargetPath": "Views\\First\\HelloWorld.cshtml",
-      "FileKind": "mvc"
-    },
     {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/HelloWorld.cshtml",
       "TargetPath": "Pages\\HelloWorld.cshtml",
@@ -18657,11 +18381,6 @@
     {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/Razor.cshtml",
       "TargetPath": "Pages\\Razor.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Pages/Fisrt/HelloWorld2.cshtml",
-      "TargetPath": "Pages\\Fisrt\\HelloWorld2.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18677,11 +18396,6 @@
     {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/HelloView.cshtml",
-      "TargetPath": "Views\\First\\HelloView.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18702,11 +18416,6 @@
     {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/web-mvc/Views/First/ViewProduct.cshtml",
-      "TargetPath": "Views\\First\\ViewProduct.cshtml",
       "FileKind": "mvc"
     }
   ],
