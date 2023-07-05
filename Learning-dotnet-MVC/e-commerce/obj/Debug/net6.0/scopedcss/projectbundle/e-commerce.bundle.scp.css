@@ -2,6 +2,16 @@
 /* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+.header-logo a[b-ozdvzagekr]{
+  display: inline-block;
+  max-width: 100%;
+  line-height: 0;
+}
+
+.navbar[b-ozdvzagekr]{
+  background-color: #515154;
+}
+
 a.navbar-brand[b-ozdvzagekr] {
   white-space: normal;
   text-align: center;
