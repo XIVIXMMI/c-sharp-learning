@@ -1,3 +1,4 @@
+using System.Net;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Razor;
@@ -63,22 +64,37 @@ namespace StartUp
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
-            app.UseRouting();
             // Cấu hình middleware xác thực (Authentication) và phân quyền (Authorization)
             app.UseAuthorization(); // Xác thực quyền truy cập
             app.UseAuthentication(); //Xác thực danh tính
 
+            app.UseRouting();
+            
+            
+            app.UseStatusCodePages(appError => {
+                appError.Run(async context => {
+                    var response = context.Response;
+                    var code = response.StatusCode;
+                    
+                    var content = @$"<html>
+                        <head>
+                            <meta charset='UTF-8 />
+                            <title>Lỗi {code} </title>
+                        </head>
+                        <body>
+                            <p>
+                                Có lỗi xảy ra : {code} - {(HttpStatusCode)code}
+                            </p>
+                        </body>
+                    </html>";
+                    await response.WriteAsync(content);
+                });
+            }); // Trả về lỗi từ code 400 - 599
             
 
             app.UseEndpoints(endpoints =>
             {
-                //URL : {controller}/{action}/{id}
-                // Abc/xyz => Controller = Abc , call method xyz
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-                endpoints.MapRazorPages();
+            
             });
         }
     }

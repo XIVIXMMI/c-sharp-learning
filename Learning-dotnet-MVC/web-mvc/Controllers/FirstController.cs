@@ -92,12 +92,12 @@ namespace web_mvc.Controllers
                 }
             );
         }
-        public IActionResult Privacy()
-        {
-            var url = Url.Action("Privacy", "Home");
-            _logger.LogInformation("Chuyen huong den " + url);
-            return Redirect(url);
-        }
+        // public IActionResult Privacy()
+        // {
+        //     var url = Url.Action("Privacy", "Home");
+        //     _logger.LogInformation("Chuyen huong den " + url);
+        //     return Redirect(url);
+        // }
         public IActionResult Google()
         {
             var url = "https://google.com";
