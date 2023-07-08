@@ -6,17 +6,23 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using AppMvc.Net.Models;
-
+using Microsoft.AspNetCore.Hosting;
+using System.IO;
+using Microsoft.Extensions.FileProviders;
+using MimeKit;
 namespace AppMvc.Net.Controllers
 {
     //[Route("[controller]")]
     public class FirstController : Controller
     {
+        private readonly IWebHostEnvironment _env;
+
         private readonly ILogger<FirstController> _logger;
 
-        public FirstController(ILogger<FirstController> logger)
+        public FirstController(ILogger<FirstController> logger, IWebHostEnvironment env)
         {
             _logger = logger;
+            _env = env;
         }
 
         public IActionResult Index()
@@ -71,7 +77,7 @@ namespace AppMvc.Net.Controllers
         }
         public object Time() => "The time is " + DateTime.Now;
         public object Number() => Math.Sqrt(4);
-        public object Arr() => new int[] { 1, 2, 3,};
+        public object Arr() => new int[] { 1, 2, 3, };
 
         /*
         Tuy nhiên các Action trong controller thì thường 
@@ -81,6 +87,7 @@ namespace AppMvc.Net.Controllers
         ------------------------------------------------
         ContentResult               | Content()
         EmptyResult                 | new EmptyResult() => tương đương trả về void 
+
         FileResult                  | File()
         ForbidResult                | Forbid()
         JsonResult                  | Json()
@@ -95,7 +102,8 @@ namespace AppMvc.Net.Controllers
         ViewResult                  | View()
         
         */
-        public ContentResult Readme(){
+        public ContentResult Readme()
+        {
             var content = @"
             Hello everybody
             You are learning ASP.Net Core 7.0
@@ -103,7 +111,50 @@ namespace AppMvc.Net.Controllers
             
             Good luck!
             ";
-            return this.Content(content,"text/plain");
+            return this.Content(content, "text/plain");
+        }
+        public IActionResult Picture()
+        {
+            string filePath = Path.Combine(_env.ContentRootPath, "Pictures", "HelloWorld.png");
+            var bytes = System.IO.File.ReadAllBytes(filePath);
+            string contentType = MimeKit.MimeTypes.GetMimeType(filePath);
+
+            var cd = new System.Net.Mime.ContentDisposition
+            {
+                FileName = filePath,
+                Inline = true,
+            };
+
+            Response.Headers.Add("Content-Disposition", cd.ToString());
+
+            return File(bytes, contentType);
+        }
+        public IActionResult AppleProduct()
+        {
+            return Json(new
+            {
+                productName = "Iphone 11",
+                price = "699$"
+            });
+        }
+        public IActionResult Privacy()
+        {
+            var url = Url.Action("Privacy", "Home");// Hãy đảm bảo giá trị không phải null ở đây
+            if (url != null)
+            {
+                _logger.LogInformation("Redirect to" + url);
+                return LocalRedirect(url);
+            }
+            else
+            {
+                return NotFound();// Hoặc trả về một phản hồi khác tùy thuộc vào logic của bạn
+            }
+        }
+        public IActionResult Google()
+        {
+            var url = "https://www.google.com/";// Hãy đảm bảo giá trị không phải null ở đâyß
+            _logger.LogInformation("Redirect to" + url);
+            return Redirect(url);
         }
 
     }
