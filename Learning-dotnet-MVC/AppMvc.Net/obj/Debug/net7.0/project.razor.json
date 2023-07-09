@@ -18655,6 +18655,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/ViewProduct.cshtml",
+      "TargetPath": "Views\\First\\ViewProduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18690,6 +18695,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/Shared/_AlertMessage.cshtml",
+      "TargetPath": "Views\\Shared\\_AlertMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/HelloView2.cshtml",
       "TargetPath": "Views\\First\\HelloView2.cshtml",
       "FileKind": "mvc"
@@ -18697,6 +18707,16 @@
     {
       "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/MyView/firstView.cshtml",
       "TargetPath": "MyView\\firstView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/secondViewProduct.cshtml",
+      "TargetPath": "Views\\First\\secondViewProduct.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/thirdViewProduct.cshtml",
+      "TargetPath": "Views\\First\\thirdViewProduct.cshtml",
       "FileKind": "mvc"
     }
   ],

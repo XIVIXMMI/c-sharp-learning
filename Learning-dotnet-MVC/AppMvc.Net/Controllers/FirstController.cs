@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Hosting;
 using System.IO;
 using Microsoft.Extensions.FileProviders;
 using MimeKit;
+using AppMvc.Services;
+
 namespace AppMvc.Net.Controllers
 {
     //[Route("[controller]")]
@@ -18,11 +20,13 @@ namespace AppMvc.Net.Controllers
         private readonly IWebHostEnvironment _env;
 
         private readonly ILogger<FirstController> _logger;
+        private readonly ProductService _productService;
 
-        public FirstController(ILogger<FirstController> logger, IWebHostEnvironment env)
+        public FirstController(ILogger<FirstController> logger, IWebHostEnvironment env, ProductService productService)
         {
             _logger = logger;
             _env = env;
+            _productService = productService; 
         }
 
         public IActionResult Index()
@@ -188,9 +192,34 @@ namespace AppMvc.Net.Controllers
             return View(username);
             Nhưng nếu viết thế này username đang là 1 chuỗi ký tự thì nó sẽ hiểu username là template chứ không phải model
             -> cast nó sang object => (object) username
+
+            View/Controller/Action.cshtml
             */
             return View((object) username);
+            //return View("thirdView");
             
+        }
+        public string Notify{get;set;}
+        public IActionResult ViewProduct(int? id){
+            var product = _productService.Where(p => p.Id == id).FirstOrDefault();
+            if(product == null){
+                //TempData["Notify"] = "The product is not exist";
+                Notify = "The product is not exist";
+                return Redirect(Url.Action("Index","Home"));
+            }
+            //return Content($"Product ID = {id}");
+
+            //Model
+            //return View(product);
+
+            //View Data
+            // this.ViewData["product"] = product;
+            // ViewData["Title"] = product.Name;
+            // return View("secondViewProduct");
+
+            //ViewBag
+            ViewBag.product = product;
+            return View("thirdViewProduct");
         }
 
     }
