@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/MyView/firstView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3L2ZpcnN0Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Pages/Razor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUmF6b3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/HelloView2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3QvSGVsbG9WaWV3Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/First/secondView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmlyc3Qvc2Vjb25kVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/dev/myProject/Learn Git/Learning-dotnet-MVC/AppMvc.Net/Views/Home/Index.cshtml]

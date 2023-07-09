@@ -156,6 +156,42 @@ namespace AppMvc.Net.Controllers
             _logger.LogInformation("Redirect to" + url);
             return Redirect(url);
         }
+        public IActionResult HelloView2(string username){
+            if(string.IsNullOrEmpty(username))
+                username = "Guest";
+            /*
+            *Cơ bản View() 
+            Yêu cầu sử dụng Razor Engine đọc và thi hành file .cshtml (template)
+            Kết quả khi thi hành cshtml được lưu ở ViewResult và đó là nội dung trả về cho client
+            TODO: Gọi phương thức View và chỉ ra file cshtml (template: đường dẫn tuyệt đối tới file cshtml).
+            --------------------------------------------------------------------------------------
+            ?Truyền dữ liệu từ controller sang view
+            Thiết lập dữ liệu ở tham số thứ 2 của phương thức view (Model)
+            username = null
+            do không có dữ liệu binding đến nên kết quả trả về là Guest
+            dữ liệu binding có thể thiết lập trên thanh địa chỉ như 
+            http://localhost:5090/First/HelloView2?username=Billy
+            lúc này kết quả trả về sẽ là => Hello Billy
+            --------------------------------------------------------------------------------------
+            ?Trường hợp trong tham số template không ghi đường dẫn tuyệt đối 
+            trong trường hợp này Razor engine sẽ tìm đến file secondView
+            -> trong thư mục /View -> sau đó đến thư mục con (tên của controller) -> mở file secondView.cshtml
+            !Trong View phải có thư mục là tên của Controller 
+            return View("secondView",username);
+            ?Trường hợp nếu không chỉ ra template
+            Gọi phương thức View tạo ViewResult
+            Trong trường hợp này yêu cầu Razor Engine mở file template cshtml trùng tên với Action là HelloView2.cshtml
+            và tìm nó ở trong thư mục -> View/First
+            View/First/HelloView2.cshtml
+        TODO: Nếu trong phương thức View không chỉ ra template thì nó sẽ tự động thiết lập file template theo đường dẫn View/First/HelloView2.cshtml
+            Nếu muốn truyền model cho HelloView2 ở trường hợp này thiết lập ngay ở tham số đầu tiên
+            return View(username);
+            Nhưng nếu viết thế này username đang là 1 chuỗi ký tự thì nó sẽ hiểu username là template chứ không phải model
+            -> cast nó sang object => (object) username
+            */
+            return View((object) username);
+            
+        }
 
     }
 }
